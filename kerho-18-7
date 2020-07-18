@@ -1,25 +1,19 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="134 Laakasalo" id="0" comment="" altitude="122.0">
-      <Location longitude="24.1686167" latitude="60.7361167"/>
+    <Waypoint name="010 Keritty" id="0" comment="" altitude="123.0">
+      <Location longitude="24.1166667" latitude="60.6933333"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="022 Humppila" id="0" comment="" altitude="102.0">
-      <Location longitude="23.33945" latitude="60.9536167"/>
+    <Waypoint name="038 Oripaa" id="0" comment="" altitude="101.0">
+      <Location longitude="22.7438833" latitude="60.8727833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="188 Rautajarvi" id="0" comment="" altitude="125.0">
-      <Location longitude="24.7172167" latitude="61.4097167"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="088 Putula" id="0" comment="" altitude="118.0">
-      <Location longitude="25.2197167" latitude="61.0991667"/>
+    <Waypoint name="039 Hameenkoski" id="0" comment="" altitude="114.0">
+      <Location longitude="25.1711167" latitude="61.0127833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
@@ -30,3 +24,4 @@
     <ObservationZone type="Line" length="1000.0"/>
   </Point>
 </Task>
+
